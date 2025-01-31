@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Entity Framework\\EFCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|E:\\Entity Framework\\EFCodeFirst\\efcodefirst\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|E:\\Entity Framework\\EFCodeFirst\\efcodefirst\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|e:\\entity framework\\efcodefirst\\efcodefirst\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|E:\\Entity Framework\\EFCodeFirst\\efcodefirst\\context\\admincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\context\\admincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|E:\\Entity Framework\\EFCodeFirst\\efcodefirst\\views\\default\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\views\\default\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|E:\\Entity Framework\\EFCodeFirst\\efcodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|E:\\Entity Framework\\EFCodeFirst\\efcodefirst\\views\\default\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\views\\default\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|E:\\Entity Framework\\EFCodeFirst\\efcodefirst\\views\\default\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B75FDF-2D6A-4C1E-BEBD-BE16A2E57100}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\views\\default\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T08:03:24.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Views\\Default\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Views\\Default\\Edit.cshtml",
+              "ToolTip": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Views\\Default\\Edit.cshtml",
+              "RelativeToolTip": "EFCodeFirst\\Views\\Default\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T07:42:27.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Views\\Default\\Details.cshtml",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Views\\Default\\Details.cshtml",
+              "ToolTip": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Views\\Default\\Details.cshtml",
+              "RelativeToolTip": "EFCodeFirst\\Views\\Default\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T07:29:19.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Views\\Default\\Create.cshtml",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Views\\Default\\Create.cshtml",
+              "ToolTip": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Views\\Default\\Create.cshtml",
+              "RelativeToolTip": "EFCodeFirst\\Views\\Default\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T07:14:26.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Views\\Default\\Index.cshtml",
+              "ToolTip": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "EFCodeFirst\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T07:13:55.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Controllers\\DefaultController.cs",
+              "ToolTip": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "EFCodeFirst\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:06:26.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminContext.cs",
+              "DocumentMoniker": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Context\\AdminContext.cs",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Context\\AdminContext.cs",
+              "ToolTip": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Context\\AdminContext.cs",
+              "RelativeToolTip": "EFCodeFirst\\Context\\AdminContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:53:47.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Models\\User.cs",
+              "ToolTip": "E:\\Entity Framework\\EFCodeFirst\\EFCodeFirst\\Models\\User.cs",
+              "RelativeToolTip": "EFCodeFirst\\Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:46:51.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
